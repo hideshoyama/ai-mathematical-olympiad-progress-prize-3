@@ -8,7 +8,7 @@
 ---
 
 ## Phase 1: 問題分析モジュール
-- [ ] LLMプロンプト設計: 問題文からGoal/Given/分野を抽出
+- [/] LLMプロンプト設計: 問題文からGoal/Given/分野を抽出 (`problem_analyzer.py`)
 - [ ] サンプル問題でのプロンプトテスト
 
 ## Phase 2: 逆算推論モジュール
